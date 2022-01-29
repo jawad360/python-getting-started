@@ -1,0 +1,4 @@
+- unicorn is our webserver
+- run using `uvicorn main:app --reload`
+- Swagger can be accessed using `http://localhost:8000/docs`
+- 
