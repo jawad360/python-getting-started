@@ -1,0 +1,10 @@
+{
+    "name": "Jawad",
+    "age": 27,
+    "city": "Mumbai",
+    "hasChildren": false,
+    "titles": [
+        "Engineer",
+        "Developer"
+    ]
+}
